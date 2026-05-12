@@ -1,7 +1,7 @@
 import requests
 import time
 from aiengine import *
-bot_token="8563726572:AAHsxbsEx1q-CjNqOEH5XmRwNEbRttF8At0"
+bot_token=""
 
 sneha=SNEHA()
 def get_data(offset):
