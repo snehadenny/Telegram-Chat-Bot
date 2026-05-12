@@ -3,21 +3,21 @@ A Python-based Telegram chatbot that automatically receives user messages, proce
 
 ## Technologies
 
-Python
-Telegram Bot API
-Requests Library (requests)
-Time Module (time)
-Polling Mechanism
-REST API
-JSON Data Handling
-Custom AI Engine (aiengine)
+- Python
+- Telegram Bot API
+- Requests Library (`requests`)
+- Time Module (`time`)
+- Polling Mechanism
+- REST API
+- JSON Data Handling
+- Custom AI Engine (`aiengine`)
 
 ## Features
 
-Real-time automated messaging
-AI-based response generation
-Continuous message monitoring
-Simple and lightweight chatbot system
+- Real-time automated messaging
+- AI-based response generation
+- Continuous message monitoring
+- Simple and lightweight chatbot system
 
 ## The Process
 
