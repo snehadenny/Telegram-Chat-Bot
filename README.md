@@ -25,11 +25,20 @@ The chatbot continuously checks for new Telegram messages using the Telegram Bot
 
 ## Running The Project
 
-1.Install Python on your system
-2.Install required library:
-//pip install requests
-3.Create a Telegram bot using Telegram and get the Bot Token from BotFather
-4.Add the bot token in the Python code
-5.Run the program:
-//python bot.py
-6.Open Telegram, send a message to your bot, and the chatbot will automatically reply.
+1. Install Python on your system.
+
+2. Install the required library:
+```bash
+pip install requests
+```
+
+3. Create a Telegram bot using Telegram and get the Bot Token from BotFather.
+
+4. Add the bot token in the Python code.
+
+5. Run the program:
+```bash
+python bot.py
+```
+
+6. Open Telegram, send a message to your bot, and the chatbot will automatically reply.
