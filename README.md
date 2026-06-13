@@ -4,7 +4,7 @@
 ![Automation](https://img.shields.io/badge/System-Automation-orange)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-# 🤖 Telegram AI Chat Bot (Python Experimental Project)
+# 🤖 Telegram AI Chat Bot 
 
 A Python-based Telegram chatbot developed as an **experimental learning project** to explore automation, REST API integration, and basic AI-driven response generation.
 
