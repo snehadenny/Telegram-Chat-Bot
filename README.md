@@ -47,12 +47,12 @@ This project demonstrates how automation, REST APIs, and basic AI logic can be c
 # 📁 Project Structure
 
 Telegram-Chat-Bot/
-
+│
+│
 ├── bot.py
 ├── aiengine.py
-├── requirements.txt
-└── README.md
-
+├── README.md
+└── requirements.txt
 ---
 
 # ⚙️ How to Run Locally
