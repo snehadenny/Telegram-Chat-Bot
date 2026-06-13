@@ -17,11 +17,11 @@ The bot receives messages from users, processes them using a custom AI logic eng
 <table>
   <tr>
     <td align="center">
-      <img src="chat1.png" width="350px"><br>
+      <img src="chat1.jpeg" width="350px"><br>
       <b>Chat Example 1</b>
     </td>
     <td align="center">
-      <img src="chat2.png" width="350px"><br>
+      <img src="chat2.jpeg" width="350px"><br>
       <b>Chat Example 2</b>
     </td>
   </tr>
