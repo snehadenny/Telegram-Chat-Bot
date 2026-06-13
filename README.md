@@ -55,29 +55,29 @@ Telegram-Chat-Bot/
 
 ---
 
-⚙️ How to Run Locally
+# ⚙️ How to Run Locally
 
-1. Clone the Repository
+### 1. Clone the Repository
 ```bash
 git clone https://github.com/your-username/Telegram-Chat-Bot.git
 cd Telegram-Chat-Bot
 ```
-2. Install Dependencies
+### 2. Install Dependencies
 ```
 pip install -r requirements.txt
 ```
-3. Create Telegram Bot
+### 3. Create Telegram Bot
 - Open Telegram
 - Search for @BotFather
 - Create a new bot
 - Copy the BOT TOKEN
   
-4. Configure Token
+### 4. Configure Token
 Add your token in bot.py:
 ```
 TOKEN = "YOUR_BOT_TOKEN"
 ```
-5. Run the Bot
+### 5. Run the Bot
 ```
 python bot.py
 ```
