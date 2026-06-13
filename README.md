@@ -17,11 +17,11 @@ The bot receives messages from users, processes them using a custom AI logic eng
 <table>
   <tr>
     <td align="center">
-      <img src="chat1.jpeg" width="350px"><br>
+      <img src="chat1.jpeg" width="200px"><br>
       <b>Chat Example 1</b>
     </td>
     <td align="center">
-      <img src="chat2.jpeg" width="350px"><br>
+      <img src="chat2.jpeg" width="200px"><br>
       <b>Chat Example 2</b>
     </td>
   </tr>
@@ -92,3 +92,13 @@ Telegram-Chat-Bot/
 - 🌍 Multi-language support for global users
 - 📊 Admin dashboard for monitoring bot performance
 - 🔁 Context-aware conversational AI system
+
+# 👨‍💻 Done by
+
+- Sneha Denny
+
+---
+
+# 📜 License
+
+This project is licensed under the MIT License.
