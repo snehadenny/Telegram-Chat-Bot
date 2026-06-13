@@ -1,4 +1,4 @@
-🤖 Telegram AI Chat Bot (Python Project)
+# 🤖 Telegram AI Chat Bot (Python Project)
 
 A simple Python-based Telegram chatbot that uses the Telegram Bot API and a custom AI logic engine to automatically respond to user messages in real time.
 
@@ -6,7 +6,7 @@ This project demonstrates how automation, REST APIs, and basic AI logic can be c
 
 ---
 
-📌 Features
+# 📌 Features
 
 - Real-time message handling via Telegram Bot API  
 - Automated responses using custom AI logic  
@@ -32,7 +32,7 @@ This project demonstrates how automation, REST APIs, and basic AI logic can be c
 </table>
 
 ---
-🧠 Technologies Used
+# 🧠 Technologies Used
 
 | Area            | Tools / Libraries              |
 |----------------|--------------------------------|
@@ -44,14 +44,14 @@ This project demonstrates how automation, REST APIs, and basic AI logic can be c
 
 ---
 
-📁 Project Structure
+# 📁 Project Structure
 
 Telegram-Chat-Bot/
 
-├── bot.py              # Main bot script (handles messages & polling)
-├── aiengine.py         # AI response logic engine
-├── requirements.txt    # Dependencies
-└── README.md           # Project documentation
+├── bot.py
+├── aiengine.py
+├── requirements.txt
+└── README.md
 
 ---
 
@@ -112,10 +112,10 @@ python bot.py
 - Improve context-aware conversation handling
 - Deploy bot on cloud platforms
 
-📄 License
+# 📄 License
 
 This project is licensed under the MIT License.
 
-🙋‍♂️ Author
+# 🙋‍♂️ Author
 
 Sneha Denny
